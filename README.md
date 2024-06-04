@@ -1,5 +1,9 @@
-# Reading Notes
-Notas de lectura para mi curso lima-code-102n3
+# Notas de Lectura
+Para mi curso lima-code-102n3
 
-## Autor:
+## Autores:
 - Bruno Díaz
+- Alex Guillen
+
+[Página de Enter](https://www.enter.edu.pe)
+
